@@ -1,0 +1,2 @@
+# swoole-php-chatroom-demo
+基于php和swoole扩展写的一个websocket小型聊天室chatroom功能界面demo,便于初学者研究使用
